@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "test.programming.YT",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "test.programming.YT"
+  }
+}
